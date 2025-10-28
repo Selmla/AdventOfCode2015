@@ -1,0 +1,17 @@
+# Bygg- och cachemappar
+bin/
+obj/
+
+# VS och VS Code
+.vs/
+.vscode/
+
+# Tillfälliga filer
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.exe
+*.dll
+*.json
